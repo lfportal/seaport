@@ -5320,7 +5320,7 @@ seaport-core@^0.0.1:
 
 seaport-core@lfportal/seaport-core#1.5.0+im.1:
   version "1.5.0"
-  resolved "https://codeload.github.com/lfportal/seaport-core/tar.gz/a18bb28fbc6dff7a74f76f600debf61705f00186"
+  resolved "https://codeload.github.com/lfportal/seaport-core/tar.gz/b091bf9fa0cf8d0353b8848e8f5584f2f14a1c7b"
   dependencies:
     seaport-types "^0.0.1"
 
